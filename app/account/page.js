@@ -4,8 +4,6 @@ export const metadata = {
 
 export default function Account() {
   return (
-    <div>
-      <h1>In the account page</h1>
-    </div>
+    <h2 className="font-semibold text-2xl text-accent-400 mb-7">Hello Vijay</h2>
   );
 }
